@@ -11,6 +11,7 @@ Trabalho apresentado ao curso [GenAI e LLM MASTER](https://ica.ele.puc-rio.br/cu
 - [RAG_PDF_POSTGRESQL_TEXTO_AUDIO_V4_CHUNK_SEMANTICO.ipynb](RAG_PDF_POSTGRESQL_TEXTO_AUDIO_V4_CHUNK_SEMANTICO.ipynb).
 - [Requirements.txt](requirements.txt).
 - [Tela RAG Iniciasl](tela_rag.png).
+- [Tela RAG Resposta](tela_rag_resposta.png)
 
 ---
 
