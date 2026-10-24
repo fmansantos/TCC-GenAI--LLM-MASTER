@@ -12,7 +12,7 @@ Trabalho apresentado ao curso [GenAI e LLM MASTER](https://ica.ele.puc-rio.br/cu
 - [Requirements.txt](requirements.txt).
 - [Tela RAG Iniciasl](tela_rag.png).
 - [Tela RAG Resposta](tela_rag_resposta.png)
-
+- [Audio Gerado](resposta_20261024_170505_065386.mp3)
 ---
 
 ### Resumo
