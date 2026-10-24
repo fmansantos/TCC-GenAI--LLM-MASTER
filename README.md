@@ -81,6 +81,7 @@ ollama pull nomic-embed-text
 ---
 
 Matrícula: 252.100.191
+Matrícula: 252.100.192
 
 Pontifícia Universidade Católica do Rio de Janeiro
 
