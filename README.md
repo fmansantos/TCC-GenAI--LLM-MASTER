@@ -1,6 +1,7 @@
 # RAG COM POSTGRESQL 18, PGVECTOR E OLLAMA (QWEN3:8B)
 
 #### Aluno: [Fábio Mendonça dos Santos](https://github.com/fmansantos)
+#### Aluno: [Elaine Costa da Cunha]
 #### Orientadora: [Leonardo Alfredo Forero Mendonza](https://github.com/leofome8) 
 
 ---
