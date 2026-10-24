@@ -79,7 +79,7 @@ ollama pull nomic-embed-text
 
 ---
 
-Matrícula: 123.456.789
+Matrícula: 252.100.191
 
 Pontifícia Universidade Católica do Rio de Janeiro
 
