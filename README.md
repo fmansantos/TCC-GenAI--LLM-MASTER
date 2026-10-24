@@ -8,6 +8,8 @@
 Trabalho apresentado ao curso [GenAI e LLM MASTER](https://ica.ele.puc-rio.br/cursos/ia-generativa-large-language-models/) como pré-requisito para conclusão de curso e obtenção de crédito na disciplina "Projetos de Sistemas Inteligentes de Apoio à Decisão".
 
 - [Link para o código](README.md).
+- [RAG_PDF_POSTGRESQL_TEXTO_AUDIO_V4_CHUNK_SEMANTICO.ipynb](RAG_PDF_POSTGRESQL_TEXTO_AUDIO_V4_CHUNK_SEMANTICO.ipynb).
+- [Requirements.txt](requirements.txt).
 
 ---
 
